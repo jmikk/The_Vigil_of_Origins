@@ -61,8 +61,8 @@ The bot will post something like this when a nation is founded:
 > 📜 A Banner Unfurled — *new_nation* was founded in *The North Pacific*  
 > 🧭 **Nations Welcomed by the Realms**: new_nation  
 > 📨 **Ritual Telegram Paths:**  
-> • [Welcome Invocation](...)  
-> 🖋️ [Commune with the Newborn Realms](...)
+> • [Welcome Invocation](...)  (a list of everyones templates)
+> 🖋️ [Commune with the Newborn Realms](...) (a blank link leading directly to the telegram page for anyone to copy and paste their code in.
 
 ---
 
