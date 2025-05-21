@@ -45,7 +45,7 @@ On first run, the bot will guide you through a setup wizard:
 - **Blacklisted Regions** — Comma-separated names of regions to ignore (e.g. `test region, my puppet zone`).
 - **Telegram Templates** — Add optional telegram templates using this format:  
   ```
-  35972625:Welcome,12345678:Recruitment
+  %TEMPLATE-987654321%:9005,%TEMPLATE-123456789%:Other Rando
   ```
 - **Role to Ping** — Paste a Discord **role ID** to ping for new foundings (leave blank if you don’t want pings).
 
